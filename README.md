@@ -1,4 +1,4 @@
-# solution.jpg will show you how the output looks when the queries from assesment is run.
+## solution.jpg will show how the output looks when the queries from assesment is run.
 # How to run?
 ```
 npm install
