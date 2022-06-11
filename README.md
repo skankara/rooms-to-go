@@ -1,3 +1,4 @@
+#solution.jpg will show you how the output looks when the queries from assesment is run.
 # How to run?
 ```
 npm install
@@ -19,6 +20,4 @@ Reason: vorpal is using lower version of 'lodash<=4.17.20' and 'inquirer<=0.11.4
 Didn't include any unit tests
 
 ```
-
-solution.jpg will show you how the output looks when the queries from assesment is run.
 
