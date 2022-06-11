@@ -8,7 +8,7 @@ npm start
 
 # Packages used
 ```
-vorpal
+package: vorpal
 
 Note: when installing packages you will see '3 vulnerabilities (2 high, 1 critical)' 
 Reason: vorpal is using lower version of 'lodash<=4.17.20' and 'inquirer<=0.11.4'
